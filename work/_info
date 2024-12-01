@@ -1,0 +1,450 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vAdder8bit
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1733057210
+!i10b 1
+!s100 S>QR><[OeM`n2@Wj1iRAJ2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IY;G8Wd7?9_gEHM_7E4=]A0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dD:/uni/new_semester/DLD/CA3
+Z5 w1733057180
+Z6 8D:/uni/new_semester/DLD/CA3/q6.sv
+Z7 FD:/uni/new_semester/DLD/CA3/q6.sv
+!i122 60
+L0 2 3
+Z8 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z9 !s108 1733057210.000000
+Z10 !s107 D:/uni/new_semester/DLD/CA3/q6.sv|
+Z11 !s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/uni/new_semester/DLD/CA3/q6.sv|
+!i113 1
+Z12 o-work work -sv
+Z13 tCvgOpt 0
+n@adder8bit
+vgated_srlatch_nand
+R0
+Z14 !s110 1733043397
+!i10b 1
+!s100 l7M3CQSVXOc<aldJUSo<H2
+R2
+If9oXin5]GI:oMba^gVz`R2
+R3
+S1
+R4
+w1732990094
+8D:/uni/new_semester/DLD/CA3/q11.sv
+FD:/uni/new_semester/DLD/CA3/q11.sv
+!i122 9
+Z15 L0 2 17
+R8
+r1
+!s85 0
+31
+!s108 1733043396.000000
+!s107 D:/uni/new_semester/DLD/CA3/q11.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/uni/new_semester/DLD/CA3/q11.sv|
+!i113 1
+R12
+R13
+vlacthTB
+R0
+!s110 1733047112
+!i10b 1
+!s100 oWVDCGoYmkSJSQfLN]H`N2
+R2
+I7ckPZfP<CI9IBae2E^>6H3
+R3
+S1
+R4
+w1733047095
+8D:/uni/new_semester/DLD/CA3/q1TB.sv
+FD:/uni/new_semester/DLD/CA3/q1TB.sv
+!i122 25
+Z16 L0 2 32
+R8
+r1
+!s85 0
+31
+!s108 1733047112.000000
+!s107 D:/uni/new_semester/DLD/CA3/q1TB.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/uni/new_semester/DLD/CA3/q1TB.sv|
+!i113 1
+R12
+R13
+nlacth@t@b
+vmyReg
+R0
+!s110 1733052782
+!i10b 1
+!s100 Z47KHUchT<DF7?8oNME:13
+R2
+I8o=W7z8IMYYiYIScI4??n3
+R3
+S1
+R4
+w1733051892
+8D:/uni/new_semester/DLD/CA3/q5register.sv
+FD:/uni/new_semester/DLD/CA3/q5register.sv
+!i122 45
+R15
+R8
+r1
+!s85 0
+31
+!s108 1733052782.000000
+!s107 D:/uni/new_semester/DLD/CA3/q5register.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/uni/new_semester/DLD/CA3/q5register.sv|
+!i113 1
+R12
+R13
+nmy@reg
+vmyReg2
+R0
+R1
+!i10b 1
+!s100 X5TY[70WzfVfP_SRe5BK92
+R2
+II3CLm;H[VSQzn;mY9C1W83
+R3
+S1
+R4
+Z17 w1733057159
+Z18 8D:/uni/new_semester/DLD/CA3/q9.sv
+Z19 FD:/uni/new_semester/DLD/CA3/q9.sv
+!i122 61
+Z20 L0 2 11
+R8
+r1
+!s85 0
+31
+R9
+Z21 !s107 D:/uni/new_semester/DLD/CA3/q9.sv|
+Z22 !s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/uni/new_semester/DLD/CA3/q9.sv|
+!i113 1
+R12
+R13
+nmy@reg2
+vq10TB
+R0
+!s110 1733057461
+!i10b 1
+!s100 2FGAPGL0eZ3HndlnT=BXS1
+R2
+IG48Rh8LkLJbZSPh4M51Jm2
+R3
+S1
+R4
+w1733057436
+8D:/uni/new_semester/DLD/CA3/q10TB.sv
+FD:/uni/new_semester/DLD/CA3/q10TB.sv
+!i122 63
+Z23 L0 2 24
+R8
+r1
+!s85 0
+31
+!s108 1733057461.000000
+!s107 D:/uni/new_semester/DLD/CA3/q10TB.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/uni/new_semester/DLD/CA3/q10TB.sv|
+!i113 1
+R12
+R13
+nq10@t@b
+vq4Dlatch
+R0
+!s110 1733058609
+!i10b 1
+!s100 cM969mXjn1LA>2[J;zGYB3
+R2
+ID0j;KH:J6`g28B5OC^5J^3
+R3
+S1
+R4
+w1733058552
+8D:/uni/new_semester/DLD/CA3/q4.sv
+FD:/uni/new_semester/DLD/CA3/q4.sv
+!i122 65
+R20
+R8
+r1
+!s85 0
+31
+!s108 1733058609.000000
+!s107 D:/uni/new_semester/DLD/CA3/q4.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/uni/new_semester/DLD/CA3/q4.sv|
+!i113 1
+R12
+R13
+nq4@dlatch
+vq4TB
+R0
+!s110 1733048383
+!i10b 1
+!s100 O3LBJiXgRe5m`nM`?Ck;>3
+R2
+IkcMf77_9ae`V8@H0GF]5>1
+R3
+S1
+R4
+w1733048373
+8D:/uni/new_semester/DLD/CA3/q4TB.sv
+FD:/uni/new_semester/DLD/CA3/q4TB.sv
+!i122 28
+L0 2 27
+R8
+r1
+!s85 0
+31
+!s108 1733048383.000000
+!s107 D:/uni/new_semester/DLD/CA3/q4TB.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/uni/new_semester/DLD/CA3/q4TB.sv|
+!i113 1
+R12
+R13
+nq4@t@b
+vq5Dlatch
+R0
+Z24 !s110 1733055761
+!i10b 1
+!s100 mfLQ2KK[hO=cL]GX>LWG11
+R2
+IE_7YDUbi]f8THbbfP2@6P0
+R3
+S1
+R4
+w1733055718
+8D:/uni/new_semester/DLD/CA3/q5.sv
+FD:/uni/new_semester/DLD/CA3/q5.sv
+!i122 57
+L0 2 15
+R8
+r1
+!s85 0
+31
+Z25 !s108 1733055761.000000
+!s107 D:/uni/new_semester/DLD/CA3/q5.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/uni/new_semester/DLD/CA3/q5.sv|
+!i113 1
+R12
+R13
+nq5@dlatch
+vq6TB
+R0
+!s110 1733050897
+!i10b 1
+!s100 1TP_S43U?N43=`n6A<cYH2
+R2
+IN0<a69ZTTkYn^3>l_CJhM0
+R3
+S1
+R4
+w1733050880
+8D:/uni/new_semester/DLD/CA3/q6TB.sv
+FD:/uni/new_semester/DLD/CA3/q6TB.sv
+!i122 40
+R23
+R8
+r1
+!s85 0
+31
+!s108 1733050897.000000
+!s107 D:/uni/new_semester/DLD/CA3/q6TB.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/uni/new_semester/DLD/CA3/q6TB.sv|
+!i113 1
+R12
+R13
+nq6@t@b
+vq8masterSlave
+R0
+R24
+!i10b 1
+!s100 zZ8`Lb_7aCnzTIcQC9]8j2
+R2
+IIIfR;2n6:QkC?WF<g:f0N2
+R3
+S1
+R4
+w1733055677
+8D:/uni/new_semester/DLD/CA3/q8.sv
+FD:/uni/new_semester/DLD/CA3/q8.sv
+!i122 59
+L0 2 8
+R8
+r1
+!s85 0
+31
+R25
+!s107 D:/uni/new_semester/DLD/CA3/q8.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/uni/new_semester/DLD/CA3/q8.sv|
+!i113 1
+R12
+R13
+nq8master@slave
+vq8MSTB
+R0
+!s110 1733054634
+!i10b 1
+!s100 6Wod4bjLG8fKc^1lLT8o42
+R2
+I6Dl^lScZAc<96mdAYB7lK2
+R3
+S1
+R4
+w1733054542
+8D:/uni/new_semester/DLD/CA3/q8TB.sv
+FD:/uni/new_semester/DLD/CA3/q8TB.sv
+!i122 54
+R16
+R8
+r1
+!s85 0
+31
+!s108 1733054634.000000
+!s107 D:/uni/new_semester/DLD/CA3/q8TB.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/uni/new_semester/DLD/CA3/q8TB.sv|
+!i113 1
+R12
+R13
+nq8@m@s@t@b
+vq9TB
+R0
+!s110 1733054440
+!i10b 1
+!s100 Fkd=26J58Tz1e;3F3oei12
+R2
+IY^g:NW0c=PIbJE_:SPdJY0
+R3
+S1
+R4
+w1733054416
+8D:/uni/new_semester/DLD/CA3/q9TB.sv
+FD:/uni/new_semester/DLD/CA3/q9TB.sv
+!i122 53
+R23
+R8
+r1
+!s85 0
+31
+!s108 1733054440.000000
+!s107 D:/uni/new_semester/DLD/CA3/q9TB.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/uni/new_semester/DLD/CA3/q9TB.sv|
+!i113 1
+R12
+R13
+nq9@t@b
+vSA2
+R0
+R1
+!i10b 1
+!s100 :f:P:4^mUVC4HGBba=YRn3
+R2
+I6F0;klJW_B?bnHgm:eF_91
+R3
+S1
+R4
+R17
+R18
+R19
+!i122 61
+L0 14 12
+R8
+r1
+!s85 0
+31
+R9
+R21
+R22
+!i113 1
+R12
+R13
+n@s@a2
+vsequenceAdder
+R0
+R1
+!i10b 1
+!s100 ;oEn5Gf_fP=mH3N_mfBeZ0
+R2
+IF0Bd:8ileck?f?M=9kTO40
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 60
+L0 6 12
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+nsequence@adder
+vsrlatch
+R0
+!s110 1733046925
+!i10b 1
+!s100 m4i79XUOfl@DQGbC7Qc><0
+R2
+IDG8Zn1G@WOPn6MHzO5PM_1
+R3
+S1
+R4
+w1733046904
+8D:/uni/new_semester/DLD/CA3/q1.sv
+FD:/uni/new_semester/DLD/CA3/q1.sv
+!i122 24
+L0 2 13
+R8
+r1
+!s85 0
+31
+!s108 1733046925.000000
+!s107 D:/uni/new_semester/DLD/CA3/q1.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/uni/new_semester/DLD/CA3/q1.sv|
+!i113 1
+R12
+R13
+vtb_gated_srlatch_nand
+R0
+R14
+!i10b 1
+!s100 5bC3n:j@DS7Nc5CNilPWf2
+R2
+IScLmdc3>i6Ff[WE_QTWUB1
+R3
+S1
+R4
+w1732990183
+8D:/uni/new_semester/DLD/CA3/testbench.sv
+FD:/uni/new_semester/DLD/CA3/testbench.sv
+!i122 12
+L0 3 67
+R8
+r1
+!s85 0
+31
+!s108 1733043397.000000
+!s107 D:/uni/new_semester/DLD/CA3/testbench.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/uni/new_semester/DLD/CA3/testbench.sv|
+!i113 1
+R12
+R13

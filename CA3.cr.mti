@@ -1,0 +1,108 @@
+D:/uni/new_semester/DLD/CA3/q10TB.sv {1 {vlog -work work -sv -stats=none D:/uni/new_semester/DLD/CA3/q10TB.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module q10TB
+
+Top level modules:
+	q10TB
+
+} {} {}} D:/uni/new_semester/DLD/CA3/q9TB.sv {1 {vlog -work work -sv -stats=none D:/uni/new_semester/DLD/CA3/q9TB.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module q9TB
+
+Top level modules:
+	q9TB
+
+} {} {}} D:/uni/new_semester/DLD/CA3/q8.sv {1 {vlog -work work -sv -stats=none D:/uni/new_semester/DLD/CA3/q8.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module q8masterSlave
+
+Top level modules:
+	q8masterSlave
+
+} {} {}} D:/uni/new_semester/DLD/CA3/q1.sv {1 {vlog -work work -sv -stats=none D:/uni/new_semester/DLD/CA3/q1.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module srlatch
+
+Top level modules:
+	srlatch
+
+} {} {}} D:/uni/new_semester/DLD/CA3/q4TB.sv {1 {vlog -work work -sv -stats=none D:/uni/new_semester/DLD/CA3/q4TB.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module q4TB
+
+Top level modules:
+	q4TB
+
+} {} {}} D:/uni/new_semester/DLD/CA3/q11.sv {1 {vlog -work work -sv -stats=none D:/uni/new_semester/DLD/CA3/q11.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module gated_srlatch_nand
+
+Top level modules:
+	gated_srlatch_nand
+
+} {} {}} D:/uni/new_semester/DLD/CA3/q6TB.sv {1 {vlog -work work -sv -stats=none D:/uni/new_semester/DLD/CA3/q6TB.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module q6TB
+
+Top level modules:
+	q6TB
+
+} {} {}} D:/uni/new_semester/DLD/CA3/q5.sv {1 {vlog -work work -sv -stats=none D:/uni/new_semester/DLD/CA3/q5.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module q5Dlatch
+
+Top level modules:
+	q5Dlatch
+
+} {} {}} D:/uni/new_semester/DLD/CA3/q8TB.sv {1 {vlog -work work -sv -stats=none D:/uni/new_semester/DLD/CA3/q8TB.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module q8MSTB
+
+Top level modules:
+	q8MSTB
+
+} {} {}} D:/uni/new_semester/DLD/CA3/q1TB.sv {1 {vlog -work work -sv -stats=none D:/uni/new_semester/DLD/CA3/q1TB.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module lacthTB
+
+Top level modules:
+	lacthTB
+
+} {} {}} D:/uni/new_semester/DLD/CA3/testbench.sv {1 {vlog -work work -sv -stats=none D:/uni/new_semester/DLD/CA3/testbench.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_gated_srlatch_nand
+
+Top level modules:
+	tb_gated_srlatch_nand
+
+} {} {}} D:/uni/new_semester/DLD/CA3/q9.sv {1 {vlog -work work -sv -stats=none D:/uni/new_semester/DLD/CA3/q9.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module myReg2
+-- Compiling module SA2
+
+Top level modules:
+	SA2
+
+} {} {}} D:/uni/new_semester/DLD/CA3/q5register.sv {1 {vlog -work work -sv -stats=none D:/uni/new_semester/DLD/CA3/q5register.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module myReg
+
+Top level modules:
+	myReg
+
+} {} {}} D:/uni/new_semester/DLD/CA3/q4.sv {1 {vlog -work work -sv -stats=none D:/uni/new_semester/DLD/CA3/q4.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module q4Dlatch
+
+Top level modules:
+	q4Dlatch
+
+} {} {}} D:/uni/new_semester/DLD/CA3/q6.sv {1 {vlog -work work -sv -stats=none D:/uni/new_semester/DLD/CA3/q6.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Adder8bit
+-- Compiling module sequenceAdder
+
+Top level modules:
+	sequenceAdder
+
+} {} {}}

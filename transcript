@@ -1,0 +1,247 @@
+# Compile of q6.sv was successful.
+# Compile of q9.sv was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.q10TB
+# vsim -gui work.q10TB 
+# Start time: 16:17:13 on Dec 01,2024
+# Loading sv_std.std
+# Loading work.q10TB
+# Loading work.SA2
+# Loading work.myReg2
+# Loading work.q8masterSlave
+# Loading work.q4Dlatch
+# Loading work.srlatch
+# Loading work.Adder8bit
+# Loading work.sequenceAdder
+# Loading work.myReg
+# Loading work.q5Dlatch
+# ** Warning: (vsim-3015) [PCDPC] - Port size (8) does not match connection size (1) for port 'reset'. The port definition is at: D:/uni/new_semester/DLD/CA3/q9.sv(14).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1 File: D:/uni/new_semester/DLD/CA3/q10TB.sv Line: 6
+# ** Warning: (vsim-3015) [PCDPC] - Port size (8) does not match connection size (1) for port 'clk'. The port definition is at: D:/uni/new_semester/DLD/CA3/q9.sv(14).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1 File: D:/uni/new_semester/DLD/CA3/q10TB.sv Line: 6
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'reset'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r0 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 3
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'clk'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r0 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 3
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'reset'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r1 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 4
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'clk'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r1 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 4
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'reset'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r2 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 5
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'clk'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r2 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 5
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'reset'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r3 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 6
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'clk'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r3 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 6
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'reset'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r4 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 7
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'clk'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r4 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 7
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'reset'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r5 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 8
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'clk'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r5 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 8
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'reset'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r6 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 9
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'clk'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r6 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 9
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'reset'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r7 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 10
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'clk'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r7 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 10
+add wave -position insertpoint  \
+sim:/q10TB/a \
+sim:/q10TB/reset \
+sim:/q10TB/clk \
+sim:/q10TB/q1 \
+sim:/q10TB/q2
+run -all
+# ** Note: $stop    : D:/uni/new_semester/DLD/CA3/q10TB.sv(23)
+#    Time: 20400 ns  Iteration: 0  Instance: /q10TB
+# Break in Module q10TB at D:/uni/new_semester/DLD/CA3/q10TB.sv line 23
+# Compile of q10TB.sv was successful.
+vsim -gui work.q10TB
+# End time: 16:20:10 on Dec 01,2024, Elapsed time: 0:02:57
+# Errors: 0, Warnings: 21
+# vsim -gui work.q10TB 
+# Start time: 16:20:10 on Dec 01,2024
+# Loading sv_std.std
+# Loading work.q10TB
+# Loading work.SA2
+# Loading work.myReg2
+# Loading work.q8masterSlave
+# Loading work.q4Dlatch
+# Loading work.srlatch
+# Loading work.Adder8bit
+# Loading work.sequenceAdder
+# Loading work.myReg
+# Loading work.q5Dlatch
+# ** Warning: (vsim-3015) [PCDPC] - Port size (8) does not match connection size (1) for port 'reset'. The port definition is at: D:/uni/new_semester/DLD/CA3/q9.sv(14).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1 File: D:/uni/new_semester/DLD/CA3/q10TB.sv Line: 6
+# ** Warning: (vsim-3015) [PCDPC] - Port size (8) does not match connection size (1) for port 'clk'. The port definition is at: D:/uni/new_semester/DLD/CA3/q9.sv(14).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1 File: D:/uni/new_semester/DLD/CA3/q10TB.sv Line: 6
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'reset'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r0 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 3
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'clk'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r0 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 3
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'reset'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r1 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 4
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'clk'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r1 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 4
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'reset'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r2 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 5
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'clk'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r2 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 5
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'reset'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r3 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 6
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'clk'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r3 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 6
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'reset'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r4 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 7
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'clk'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r4 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 7
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'reset'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r5 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 8
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'clk'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r5 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 8
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'reset'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r6 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 9
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'clk'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r6 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 9
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'reset'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r7 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 10
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'clk'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r7 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 10
+add wave -position insertpoint  \
+sim:/q10TB/a \
+sim:/q10TB/reset \
+sim:/q10TB/clk \
+sim:/q10TB/q1 \
+sim:/q10TB/q2
+run -all
+# ** Note: $stop    : D:/uni/new_semester/DLD/CA3/q10TB.sv(23)
+#    Time: 600 ns  Iteration: 0  Instance: /q10TB
+# Break in Module q10TB at D:/uni/new_semester/DLD/CA3/q10TB.sv line 23
+# Compile of q10TB.sv was successful.
+vsim -gui work.q10TB
+# End time: 16:21:12 on Dec 01,2024, Elapsed time: 0:01:02
+# Errors: 0, Warnings: 20
+# vsim -gui work.q10TB 
+# Start time: 16:21:12 on Dec 01,2024
+# Loading sv_std.std
+# Loading work.q10TB
+# Loading work.SA2
+# Loading work.myReg2
+# Loading work.q8masterSlave
+# Loading work.q4Dlatch
+# Loading work.srlatch
+# Loading work.Adder8bit
+# Loading work.sequenceAdder
+# Loading work.myReg
+# Loading work.q5Dlatch
+# ** Warning: (vsim-3015) [PCDPC] - Port size (8) does not match connection size (1) for port 'reset'. The port definition is at: D:/uni/new_semester/DLD/CA3/q9.sv(14).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1 File: D:/uni/new_semester/DLD/CA3/q10TB.sv Line: 6
+# ** Warning: (vsim-3015) [PCDPC] - Port size (8) does not match connection size (1) for port 'clk'. The port definition is at: D:/uni/new_semester/DLD/CA3/q9.sv(14).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1 File: D:/uni/new_semester/DLD/CA3/q10TB.sv Line: 6
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'reset'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r0 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 3
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'clk'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r0 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 3
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'reset'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r1 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 4
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'clk'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r1 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 4
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'reset'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r2 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 5
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'clk'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r2 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 5
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'reset'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r3 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 6
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'clk'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r3 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 6
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'reset'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r4 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 7
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'clk'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r4 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 7
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'reset'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r5 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 8
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'clk'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r5 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 8
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'reset'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r6 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 9
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'clk'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r6 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 9
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'reset'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r7 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 10
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'clk'. The port definition is at: D:/uni/new_semester/DLD/CA3/q8.sv(2).
+#    Time: 0 ns  Iteration: 0  Instance: /q10TB/adder1/my_reg/r7 File: D:/uni/new_semester/DLD/CA3/q9.sv Line: 10
+add wave -position insertpoint  \
+sim:/q10TB/a \
+sim:/q10TB/reset \
+sim:/q10TB/clk \
+sim:/q10TB/q1 \
+sim:/q10TB/q2
+run -all
+# ** Note: $stop    : D:/uni/new_semester/DLD/CA3/q10TB.sv(23)
+#    Time: 2400 ns  Iteration: 0  Instance: /q10TB
+# Break in Module q10TB at D:/uni/new_semester/DLD/CA3/q10TB.sv line 23
+vsim -gui work.q4TB
+# End time: 16:33:51 on Dec 01,2024, Elapsed time: 0:12:39
+# Errors: 0, Warnings: 19
+# vsim -gui work.q4TB 
+# Start time: 16:33:51 on Dec 01,2024
+# Loading sv_std.std
+# Loading work.q4TB
+# Loading work.q4Dlatch
+# Loading work.srlatch
+add wave -position insertpoint  \
+sim:/q4TB/d \
+sim:/q4TB/clk \
+sim:/q4TB/q \
+sim:/q4TB/qbar
+run -all
+# ** Note: $stop    : D:/uni/new_semester/DLD/CA3/q4TB.sv(25)
+#    Time: 750 ns  Iteration: 0  Instance: /q4TB
+# Break in Module q4TB at D:/uni/new_semester/DLD/CA3/q4TB.sv line 25
+# Compile of q4.sv was successful.
+vsim -gui work.q4TB
+# End time: 16:38:14 on Dec 01,2024, Elapsed time: 0:04:23
+# Errors: 0, Warnings: 2
+# vsim -gui work.q4TB 
+# Start time: 16:38:14 on Dec 01,2024
+# Loading sv_std.std
+# Loading work.q4TB
+# Loading work.q4Dlatch
+# Loading work.srlatch
+add wave -position insertpoint  \
+sim:/q4TB/d \
+sim:/q4TB/clk \
+sim:/q4TB/q \
+sim:/q4TB/qbar
+run -all
+# ** Note: $stop    : D:/uni/new_semester/DLD/CA3/q4TB.sv(25)
+#    Time: 750 ns  Iteration: 0  Instance: /q4TB
+# Break in Module q4TB at D:/uni/new_semester/DLD/CA3/q4TB.sv line 25
+# Compile of q4.sv was successful.
+vsim -gui work.q4TB
+# End time: 16:41:25 on Dec 01,2024, Elapsed time: 0:03:11
+# Errors: 0, Warnings: 2
+# vsim -gui work.q4TB 
+# Start time: 16:41:25 on Dec 01,2024
+# Loading sv_std.std
+# Loading work.q4TB
+# Loading work.q4Dlatch
+# Loading work.srlatch
+add wave -position insertpoint  \
+sim:/q4TB/d \
+sim:/q4TB/clk \
+sim:/q4TB/q \
+sim:/q4TB/qbar
+run -all
+# ** Note: $stop    : D:/uni/new_semester/DLD/CA3/q4TB.sv(25)
+#    Time: 750 ns  Iteration: 0  Instance: /q4TB
+# Break in Module q4TB at D:/uni/new_semester/DLD/CA3/q4TB.sv line 25
+# End time: 16:45:40 on Dec 01,2024, Elapsed time: 0:04:15
+# Errors: 0, Warnings: 1
